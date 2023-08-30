@@ -1,0 +1,61 @@
+/* @media(min-width:576px) small screen */
+/* @media(min-width:768px) tablate screen */
+/* @media(min-width:992px) large screen */
+/* @media(min-width:1200px) Xlarge screen */
+
+
+/***** Iphone******/
+@media(max-width:768px){
+    nav{ width: 768px;}
+    nav ul{ margin-top: 80px !important ; margin-left: 20px !important; margin-bottom: 40px !important;}
+    .icon{ margin-left: 500px !important; margin-top: -75px !important;}
+    header{ width: 768px; height: 850px !important;}
+    .photo-header{ width: 600px !important; height: 500px !important; margin-top: 350px !important; margin-left: -100px !important;}
+  
+    .About{ width: 768px;}
+    .Skills{ width: 768px ;}
+   
+    .About .photo-About{ margin-bottom: 340px; width: 600px !important; height: 400px !important; margin-left: 80px;}
+    .About .text-About{ margin-left: 100px !important; }
+    #mmm #skills{ margin-right: 110px !important;}
+    #mm #skills{ margin-right: 110px !important;}
+    #mm{ margin-top: 10px !important;}
+    .one{ margin-left: 130px;}
+    .two{ margin-left: 130px;}
+    .three{ margin-left: 130px;}
+    .four{ margin-left: 130px;}
+    .five{ margin-left: 130px;}
+    .six{ margin-left: 130px; }
+
+    .Projects{ width: 768px;}
+    .Projects p{ margin-bottom: 50px !important;}
+    #pp{ margin-left:120px ;}
+
+    .Contact{ width: 768px;}
+   
+
+
+
+
+
+
+
+}
+
+/***** Ipad ******/
+@media(width:768px){
+    #mmm #skills{ margin-right: 70px !important;}
+    #mm #skills{ margin-right: 70px !important;}
+    #pp{ margin-left:20px; }
+   
+
+
+
+
+
+
+
+
+
+
+}
